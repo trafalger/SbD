@@ -1,0 +1,4 @@
+https://www.wolframalpha.com/input/?i=y%5E2%3Dx%5E3%2Bx%2B6+mod+11
+
+Achtung: 
+Der letze Wert "o" muss auch in Klammern gesetzt werden, um die Puntke zu bekommen (obwohl dies keinen Sinn ergibt).
